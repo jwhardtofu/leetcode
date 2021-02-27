@@ -9,7 +9,7 @@
 *
  */
 
-package java.backtracking;
+package java.Backtracking;
 
 import java.util.ArrayList;
 import java.util.List;

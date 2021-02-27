@@ -8,7 +8,7 @@ Constraints:
 1 <= n <= 8
  */
 
-package java.backtracking;
+package java.Backtracking;
 
 import java.util.ArrayList;
 import java.util.List;
